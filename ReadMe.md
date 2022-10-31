@@ -26,25 +26,25 @@
 `$./hw2_3.exe`
 
 ## Contrast Enhancement
-* original Image
-![](/input1.bmp)
-* enhance stage1
-![](/output1_1.bmp)
-* enhance stage2
-![](/output1_2.bmp)
+* original Image <br>
+![](./input1.bmp)
+* enhance stage1 <br>
+![](./output1_1.bmp)
+* enhance stage2 <br>
+![](./output1_2.bmp)
 
 ## Sharpness Enhancement
-* original Image
-![](/input2.bmp)
-* enhance stage1
-![](/output2_1.bmp)
-* enhance stage2
-![](/output2_2.bmp)
+* original Image <br>
+![](./input2.bmp)
+* enhance stage1 <br>
+![](./output2_1.bmp)
+* enhance stage2 <br>
+![](./output2_2.bmp)
 
 ## Noise suppression
-* original Image
-![](/input3.bmp)
-* suppress stage1
-![](/output3_1.bmp)
-* suppress stage2
-![](/output3_2.bmp)
+* original Image <br>
+![](./input3.bmp)
+* suppress stage1 <br>
+![](./output3_1.bmp)
+* suppress stage2 <br>
+![](./output3_2.bmp)
