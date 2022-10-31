@@ -14,15 +14,15 @@
 ## Steps
 1. Compile file **hw2_1.cpp**  
 `$g++ hw2_1.cpp -o hw2_1.exe`
-2. Run **hw2_1.exe** to do image1 contrast enhancement
+2. Run **hw2_1.exe** to do image1 contrast enhancement  
 `$./hw2_1.exe`
 3. Compile file **hw2_2.cpp**  
 `$g++ hw2_2.cpp -o hw2_2.exe`
-4. Run **hw2_2.exe** to do image2 sharpness enhancement
+4. Run **hw2_2.exe** to do image2 sharpness enhancement  
 `$./hw2_2.exe`
 5. Compile file **hw2_3.cpp**  
 `$g++ hw2_3.cpp -o hw2_3.exe`
-6. Run **hw2_3.exe** to do image3 noise suppression
+6. Run **hw2_3.exe** to do image3 noise suppression  
 `$./hw2_3.exe`
 
 ## Contrast Enhancement
